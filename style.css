@@ -1,0 +1,111 @@
+body {
+    background-color: black;
+    height: 800px;
+}
+
+h1 {
+    color: rgb(5, 5, 5);
+    margin-top: 0%;
+}
+
+.botonesBarra{
+    width: 100px;
+    height: 45px;
+}
+
+.cabezera {
+    margin-left: 40%;
+
+}
+
+.bNavegacion {
+    margin-left: 30%;
+    position: fixed;
+    height: 45px;
+    width: 33%;
+    background-color: red;
+    display: flex;
+    text-align: center;
+
+
+
+}
+
+.divNav {
+    margin-left: 20px;
+
+    height: 45px;
+    top: 0%;
+    margin-top: 0%;
+}
+
+.divNav:hover {
+    background-color: orange;
+
+}
+
+.infoInicio {
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 500px;
+    width: 1450px;
+    background-color: white;
+
+}
+
+.h1i {
+    color: black;
+}
+
+
+.poductos {
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 500px;
+    width: 1450px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.hijoProducto {
+
+    margin: 20px;
+    height: 180px;
+    width: 120px;
+    background-color: pink;
+    text-align: center;
+}
+
+
+.accesorios {
+    
+   
+    height: 500px;
+    width: 1450px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+
+.hijoAccesorios {
+
+    margin: 20px;
+    height: 180px;
+    width: 120px;
+    background-color: orange;
+    text-align: center;
+}
+
+.contacto {
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 500px;
+    width: 1450px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
